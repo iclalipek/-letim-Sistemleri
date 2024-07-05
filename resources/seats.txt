@@ -1,0 +1,3 @@
+Ankara-İstanbul 100
+Trabzon-Ankara 150
+Ankara-İzmir 200
